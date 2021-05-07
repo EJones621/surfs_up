@@ -8,7 +8,7 @@ The purpose of this project is to determine if a surf and ice cream shop busines
 Jupyter Notebook, Python, Pandas, SQLite
 
 ## Results
-1. The average temperature in June is 74.9 degrees and in December it is 71.0 degrees. So not a very wide range betweent the two.
+1. The average temperature in June is 74.9 degrees and in December it is 71.0 degrees. So not a very wide range between the two.
 2. The minimum temperature in June was 64 degrees and in December it was 56, so a wider range there than the average temperatures.
 3. And to look at the maximum temperatures, in June it was 85 degrees and in December it was 83. This was the smallest range between average and minimum.
 
