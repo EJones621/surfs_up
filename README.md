@@ -1,5 +1,5 @@
 # surfs_up
-Module 9: Surf's Up with AdvancedData Storage and Retrieval 
+Surf's Up with AdvancedData Storage and Retrieval 
 
 ## Project Overview
 The purpose of this project is to determine if a surf and ice cream shop business would do well year-round. We do this by reviewing the temperature data for the months of June and December in Oahu, HI.
